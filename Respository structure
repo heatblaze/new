@@ -1,4 +1,4 @@
 Memory-Forensics-for-Malware-Analysis/
 ├── main.py/
-├──Readme.md/
-├──
+├── Readme.md/
+├── memory_analysis_report.json
